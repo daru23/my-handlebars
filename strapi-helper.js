@@ -4,6 +4,8 @@
 
 let strapiHelper = {
     getModelContent: function(model) {
+        // lala connect to strapi server here
+        // return the html for the model
         return model
     },
 };
